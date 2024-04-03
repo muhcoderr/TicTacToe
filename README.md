@@ -1,5 +1,7 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
+![WhatsApp Image 2024-04-03 at 5 46 23 PM](https://github.com/muhcoderr/TicTacToe/assets/82698555/9e4d4b7a-e70e-4302-b736-93c34c575991)
+
 # Getting Started
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
